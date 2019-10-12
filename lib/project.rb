@@ -9,6 +9,6 @@ class Project
   end 
   
   def back_project(project)
-    project 
+    project.backed
   end 
 end 
