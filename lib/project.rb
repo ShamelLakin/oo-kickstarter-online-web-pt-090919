@@ -7,4 +7,7 @@ class Project
     @title = title
     @backers = []
   end 
+  
+  def back_project
+  end 
 end 
